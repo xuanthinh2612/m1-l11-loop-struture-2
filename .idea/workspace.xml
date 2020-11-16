@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d5fe1f16-cafd-4058-a015-edcdb0fdf4c9" name="Default Changelist" comment="" />
+    <list default="true" id="d5fe1f16-cafd-4058-a015-edcdb0fdf4c9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/mayTinhDonGian.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mayTinhDonGian.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hienThiCacSoNguyenToDauTien/hienThiCacSoNguyenToDauTien.html" beforeDir="false" afterPath="$PROJECT_DIR$/hienThiCacSoNguyenToDauTien/hienThiCacSoNguyenToDauTien.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/luyenTapVongLap1/luyenTapVongLap1.html" beforeDir="false" afterPath="$PROJECT_DIR$/luyenTapVongLap1/luyenTapVongLap1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/luyenTapVongLap1/luyenTapVongLap1.js" beforeDir="false" afterPath="$PROJECT_DIR$/luyenTapVongLap1/luyenTapVongLap1.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +21,9 @@
         <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1kJXUUwmp2hx7pePYUGSuNIwTuG" />
   <component name="ProjectViewState">
@@ -44,7 +54,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605419683799</updated>
-      <workItem from="1605419684869" duration="2402000" />
+      <workItem from="1605419684869" duration="4476000" />
+      <workItem from="1605442376279" duration="17852000" />
     </task>
     <servers />
   </component>
