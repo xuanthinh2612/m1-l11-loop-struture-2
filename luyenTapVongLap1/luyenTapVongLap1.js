@@ -26,11 +26,11 @@ function hambai2() {
 
 //Bài 3=========================
 function hambai3() {
-    let fibonaccia = 1;
-    let fibonaccib = 2;
+    let fibonaccia = 0;
+    let fibonaccib = 1;
     let i;
     let fibonaccic;
-    let ds = '0' + ';' + '1' + ';' + '2' + ';'
+    let ds = '0' + ';' + '1' + ';'
     for (i = 1; i <= 18; i++) {
         fibonaccic = fibonaccia + fibonaccib;
         fibonaccia = fibonaccib;
@@ -38,6 +38,22 @@ function hambai3() {
         ds = ds + fibonaccic + ';';
     }
     console.log(ds);
+
+   /* var fibonacci_series = function (n)
+    {
+        if (n===1)
+        {
+            return [0, 1];
+        }
+        else
+        {
+            var s = fibonacci_series(n - 1);
+            s.push(s[s.length - 1] + s[s.length - 2]);
+            return s;
+        }
+    };
+
+    console.log(fibonacci_series(19));*/
 }
 
 //Bài 4=========================
