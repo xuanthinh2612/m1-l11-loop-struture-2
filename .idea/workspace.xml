@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5fe1f16-cafd-4058-a015-edcdb0fdf4c9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/kiemTraSoNguyenTo/kiemTraSoNguyenTo.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hienThiCacSoNguyenToDauTien/hienThiCacSoNguyenToDauTien.html" beforeDir="false" afterPath="$PROJECT_DIR$/hienThiCacSoNguyenToDauTien/hienThiCacSoNguyenToDauTien.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hienThiCacSoNguyenToDauTien/hienThiCacSoNguyenToDauTien.js" beforeDir="false" afterPath="$PROJECT_DIR$/hienThiCacSoNguyenToDauTien/hienThiCacSoNguyenToDauTien.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/luyenTapVongLap1/luyenTapVongLap1.js" beforeDir="false" afterPath="$PROJECT_DIR$/luyenTapVongLap1/luyenTapVongLap1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/luyenTapVongLap2/luyenTapVongLap2.html" beforeDir="false" afterPath="$PROJECT_DIR$/luyenTapVongLap2/luyenTapVongLap2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/luyenTapVongLap2/luyenTapVongLap2.js" beforeDir="false" afterPath="$PROJECT_DIR$/luyenTapVongLap2/luyenTapVongLap2.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -57,7 +53,7 @@
       <workItem from="1605419684869" duration="4476000" />
       <workItem from="1605442376279" duration="21237000" />
       <workItem from="1605578877513" duration="6586000" />
-      <workItem from="1605586060289" duration="13230000" />
+      <workItem from="1605586060289" duration="15315000" />
     </task>
     <servers />
   </component>
