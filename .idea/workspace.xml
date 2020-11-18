@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5fe1f16-cafd-4058-a015-edcdb0fdf4c9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/kiemTraSoNguyenTo/kiemTraSoNguyenTo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai hoc vong lap 2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kiemTraSoNguyenTo/kiemTraSnt.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hienThiCacSoNguyenToDauTien/hienThiCacSoNguyenToDauTien.html" beforeDir="false" afterPath="$PROJECT_DIR$/hienThiCacSoNguyenToDauTien/hienThiCacSoNguyenToDauTien.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hienThiCacSoNguyenToDauTien/hienThiCacSoNguyenToDauTien.js" beforeDir="false" afterPath="$PROJECT_DIR$/hienThiCacSoNguyenToDauTien/hienThiCacSoNguyenToDauTien.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kiemTraSoNguyenTo/kiemTraSoNguyenTo.html" beforeDir="false" afterPath="$PROJECT_DIR$/kiemTraSoNguyenTo/kiemTraSoNguyenTo.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -53,11 +57,26 @@
       <workItem from="1605419684869" duration="4476000" />
       <workItem from="1605442376279" duration="21237000" />
       <workItem from="1605578877513" duration="6586000" />
-      <workItem from="1605586060289" duration="15315000" />
+      <workItem from="1605586060289" duration="18244000" />
+      <workItem from="1605616639104" duration="2439000" />
+      <workItem from="1605623092339" duration="33000" />
+      <workItem from="1605627568525" duration="1552000" />
+      <workItem from="1605660319249" duration="21000" />
+      <workItem from="1605662033463" duration="8888000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1605660337893">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1605660337893" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1605608422898">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1605608422898" />
   </component>
 </project>

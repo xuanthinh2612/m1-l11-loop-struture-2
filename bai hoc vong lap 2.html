@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let nhietdo;
+    do{
+        nhietdo=+prompt("Nhap nhiet do:");
+    }while(isNaN(nhietdo)==true);
+    while (nhietdo<1||nhietdo>100) {
+        alert('Nhập lại nhiệt độ ')
+        nhietdo = +prompt('Nhập lại nhiệt độ từ 1 đến 100')
+            if (nhietdo < 20)
+                alert("Nhiet do qua thap, can tang nhiet do!");
+                // else if(nhietdo>100)
+            //     alert("Nhiet do qua cao, can giam nhiet do! ");
+            else
+                alert("Nhiet do vua phai!");
+
+    }
+
+</script>
+</body>
+</html>
